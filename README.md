@@ -46,6 +46,12 @@ cmake ..
 make
 ```
 
+## Run Main
+
+~~~
+cd build && make main && ./src/main
+~~~
+
 ## Run Test
 
 ~~~

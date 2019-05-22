@@ -3,7 +3,6 @@
 #include "sample_lib_1.hpp"
 
 using namespace google_test_sample;
-using namespace std;
 
 TestSampleLib1::TestSampleLib1() {}
 
