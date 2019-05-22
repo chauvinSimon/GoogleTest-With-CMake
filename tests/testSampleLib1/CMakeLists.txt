@@ -6,7 +6,6 @@ TARGET_LINK_LIBRARIES(
     testSampleLib1
     SAMPLE_LIB_1
     libgtest
-    libgmock
 )
 
 add_test(NAME testSampleLib1
